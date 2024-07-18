@@ -1,0 +1,18 @@
+[viewer]
+Title = "Go_blog"
+Description = "Go_blog"
+Logo ="/resource/images/laika_logo.svg"
+Navigation = ["首页","/", "Goland","/golang", "归档","/pigeonhole", "关于","/about","相册","picture"]
+Bilibili = "https://space.bilibili.com"
+Zhihu = "https://cn.bing.com/search?pglt=161&q=%E5%BE%95%E5%8D%A1&cvid=d7a69c3b3cd6480da261c27a718c15ce&gs_lcrp=EgZjaHJvbWUqBggBEAAYQDIGCAAQRRg5MgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCDYyNDhqMGoxqAIAsAIA&FORM=ANNTA1&adppc=EDGEESS&PC=NMTS"
+Avatar = "/resource/images/avt.jpg"
+UserName = "绵羊"
+UserDesc = "运动员"
+[system]
+CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
+QiniuAccessKey = "Doik3lGlVSK9imtcUxBoZv3qHaS5HIoxdmTh2ljl"
+QiniuSecretKey = "q3ik4-Z47_4fdzIHiNZNqNfKR4Qpodg87EjTbknq"
+Valine = true
+ValineAppid = "lBsngYvphpc1IfcJ8rAxcNdv-gzGzoHsz"
+ValineAppkey = "D2f52bBiLmlclRRyyvcqlwQt"
+ValineServerURL = "https://twojjl4r.lc-cn-n1-shared.com"
